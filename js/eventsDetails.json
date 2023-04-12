@@ -1,0 +1,69 @@
+{
+    "events": [{
+            "id": 1,
+            "imgUrl": "interview.PNG",
+            "eventName": "Interview Workshop",
+            "eventBody": "We are delighted to announce that IET-BVCOE is launching the Personality Development Series wherein you'll learn how to create a resume that stands out and how to sail through your interviews🥳🌈"
+        },
+        {
+            "id": 2,
+            "imgUrl": "Resume.png",
+            "eventName": "Resume Writing Workshop",
+            "eventBody": "We are delighted to announce that IET-BVCOE is launching the Personality Development Series wherein you'll learn how to create a resume that stands out and how to sail through your interviews🥳🌈"
+        },
+        {
+            "id": 3,
+            "imgUrl": "meme.png",
+            "eventName": "Meme Making Competition",
+            "eventBody": "A mind blending yet tickling activity for y'all is around the corner that is ' THE MEME MAKING COMPETITION ' .This event will not only keep up the level of dopamine in your brain but will also challenge your brain to discover the next level of humor hidden inside you .Therefore gear up for this exciting events."
+        },
+        {
+            "id": 4,
+            "imgUrl": "ability.PNG",
+            "eventName": "Quantitative Ability and Reasoning ",
+            "eventBody": "IET BVCOE, New Delhi is here with a Logical Reasoning and Quantitative Aptitude Building Session in association with T.I.M.E. Institute - one of the top Management coaching institutes in New Delhi. The session will be taken by *Mr. Anil Singh Bhadauria*, Senior Regional Head at T.I.M.E. with an MBA in marketing and finance. He has been mentoring students in aptitude for the past 12 years and will be sharing valuable insights with us."
+        },
+        {
+            "id": 5,
+            "imgUrl": "anveshana.png",
+            "eventName": "Anveshana Session",
+            "eventBody": "IET-BVCOE, New Delhi brings to you ANVESHANA SESSION where we tell you anything and everything about Anveshana 2021. The speakers for the event will be your seniors who held 2nd & 4th position in Anveshana 2020."
+        },
+        {
+            "id": 6,
+            "imgUrl": "case.png",
+            "eventName": "Case Study Analysis",
+            "eventBody": "IET BVCOE , New Delhi is here with a Case Study Analysis Session. In current scenario , almost every company gives you case studies in their selection stages , so you should be prepared for that .This Session will help you in improving your case study analysis and will give you the insights of how one should prepare for the interviews.The Session will be taken by – Mrs. Tarannum Naseem Raza , 13+ years of experience with T.I.M.E , An MBA and Graduate in Electronics and Telecommunication. She is also a professional Career Counselor."
+        },
+        {
+            "id": 7,
+            "imgUrl": "higher.png",
+            "eventName": "Higher Studies",
+            "eventBody": "Still confused about what to do after B.Tech.? Facing difficulties in planning your future studies abroad? Not to worry; the Student Chapter of IET at BVCOE, New Delhi has come up with an Interactive Webinar on Higher Studies in association with T.I.M.E Institute."
+        },
+        {
+            "id": 8,
+            "imgUrl": "python.png",
+            "eventName": "Introduction to Python and Data Structures",
+            "eventBody": "*IET* brings to you a free online workshop on *Introduction to Python and Data Structures*,wherein we'll help you discover your abilities in programming and solve simple problems using python."
+        },
+        {
+            "id": 9,
+            "imgUrl": "robot.png",
+            "eventName": "Robotics Technology",
+            "eventBody": "Robotics has the potential to positively transform lives and work practices,raise efficiency,safety levels and provide enhanced levels of service.🤖So, the Student chapter of IET,BVCOE is glad to announce an online event on Robotics in association with VAS Automations.✨"
+        },
+        {
+            "id": 10,
+            "imgUrl": "word.png",
+            "eventName": "Word War",
+            "eventBody": "Style is something each of us already has, all we need to do is find it We are proud to announce our Clothing Partner , STUBBORN FACTORY"
+        },
+        {
+            "id": 11,
+            "imgUrl": "games.png",
+            "eventName": "Games Competition",
+            "eventBody": "A warrior is known by his deeds, not his mouth😎💫. For all the gamers out there IET-BVCOE is organising a valorant tournament🤩🤩to add some fun to your normal boring routine😜😇"
+        }
+    ]
+}
